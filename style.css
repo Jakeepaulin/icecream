@@ -1,0 +1,21 @@
+.bug {
+  background-color: bisque;
+  height: 100%;
+}
+
+img {
+  border-radius: 9px;
+}
+
+.item {
+  background-color: aliceblue;
+  border-radius: 9px;
+}
+
+.cart {
+  height: 50vh;
+  border-color: darkblue;
+  border-style: solid;
+  border-width: 0.25rem;
+  border-radius: 9px;
+}
